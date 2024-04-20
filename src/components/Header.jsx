@@ -55,7 +55,7 @@ const Header = () => {
       <div className="hidden md:flex w-full h-full items-center justify-between">
         <Link to={"/"} className="flex items-center gap-2">
           <img src={Logo} className="w-8 object-cover" alt="logo" />
-          <p className="text-headingColor text-xl font-bold">City</p>
+          <p className="text-headingColor text-xl font-bold">FramHouse</p>
         </Link>
 
         <div className="flex items-center gap-8">
@@ -160,7 +160,7 @@ const Header = () => {
         </div>
         <Link to={"/"} className="flex items-center gap-2">
           <img src={Logo} className="w-8 object-cover" alt="logo" />
-          <p className="text-headingColor text-xl font-bold"> City</p>
+          <p className="text-headingColor text-xl font-bold"> FarmHouse</p>
         </Link>
         <div className="relative">
           <motion.img

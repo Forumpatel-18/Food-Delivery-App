@@ -12,7 +12,7 @@ const HomeContainer = () => {
       <div className="py-2 flex-1 flex flex-col items-start justify-center gap-6">
         <div className="flex items-center gap-2 justify-center bg-orange-100 px-4 py-1 rounded-full">
           <p className="text-base text-orange-500 font-semibold">
-            Bike Delivery
+            Instant Delivery
           </p>
           <div className="w-8 h-8 bg-white rounded-full overflow-hidden drop-shadow-xl">
             <img
@@ -24,17 +24,22 @@ const HomeContainer = () => {
         </div>
 
         <p className="text-[2.5rem] lg:text-[4.5rem] font-bold tracking-wide text-headingColor">
-          The Fastest Delivery in
+          At Your DoorSteps
           <span className="text-orange-600 text-[3rem] lg:text-[5rem]">
-            Your City
+            In Minutes
           </span>
         </p>
 
         <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima velit
-          eaque fugit distinctio est nam voluptatum architecto, porro iusto
-          deserunt recusandae ipsa minus eos sunt, dolores illo repellat facere
-          suscipit!
+          Heavenly. Healthy, and Hearty cooked food tantalizes the senses with
+          its aroma and flavor, transporting one to a realm of culinary bliss.
+          Each bite is a symphony of textures and tastes, crafted with passion
+          and skill. From savory stews to decadent desserts, these dishes
+          nourish not only the body but also the soul, evoking memories and
+          forging connections. With every meal, there's a celebration of life
+          and love, bringing people together in joyful communion around the
+          table. In the realm of heavenly, hearty, and heartily food, every bite
+          is a divine experience worth savoring.
         </p>
 
         <button
